@@ -1,14 +1,48 @@
-.btn-default {
-  font-size: 250%;
-  background: transparent;
-  border: none;
-  padding: 0;
-  margin-right: 50px;
+$seafoam : #A1CCA5;
+$lightGreen : #8FB996;
+$forestGreen: #709775;
+$darkGreen: #415d43;
+$purple: #42273B;
+
+.jumbotron {
+  text-align: center;
+  background-color: $lightGreen;
+  color: $purple;
+}
+
+.btn-primary {
+  background-color: $purple;
+}
+.btn-primary:hover, .btn-primary:active, .btn-primary:focus {
+  background-color: $lightGreen;
+  color: $darkGreen;
 }
 
 .panel-info {
+  .panel-heading {
+    background-color: $seafoam;
+
+    color: $darkGreen;
+  }
+
+  border-color: $darkGreen;
+  font-size: 140%;
+
   .panel-footer {
-    background-color: #d9edf7;
-    border-color: #bce8f1;
+
+    background-color: $forestGreen;
+    border-color: $purple;
+  }
+
+  .btn-default {
+    .voteIcon {
+      font-size: 150%;
+    }
+    font-size: 100%;
+    background: transparent;
+    border: none;
+    padding: 0;
+    margin-right: 50px;
+    color: $purple;
   }
 }
