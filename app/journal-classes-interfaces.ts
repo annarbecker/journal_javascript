@@ -19,6 +19,12 @@ module Journal {
       var bodyCount = this.body.split(' ');
       return bodyCount.length;
     }
+    voteDown() {
+      this.voting.downVote++;
+    }
+    voteUp() {
+      this.voting.upVote++;
+    }
   }
 
   export class Vote implements IVote {
