@@ -1,9 +1,9 @@
 # Journal
 
-#### Anna Becker
+####Anna Becker
 
 #### Description
-A journaling website where a user can write entries including a title and body.Includes a method to return the number of words in the entry and saves entry date.
+A journaling website where a user can write entries including a title and body. Includes a method to return the number of words in the entry and saves entry date.
 
 Clone this repository. Open terminal and:
 
