@@ -1,6 +1,6 @@
 # Journal
 
-####Anna Becker
+####By Anna Becker & Abby Rolling
 
 #### Description
 A journaling website where a user can write entries including a title and body. Includes a method to return the number of words in the entry and saves entry date.
@@ -47,7 +47,7 @@ Javascript, Gulp, Bower, TypeScript
 
 This software is licensed under the MIT license.
 
-Copyright (c) 2016 Anna Becker
+Copyright (c) 2016 Anna Becker & Abby Rolling
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
